@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UasProject/1.0.0": {
+        "dependencies": {
+          "MySql.Data": "6.2.5.0",
+          "MySql.Data.Entity": "6.2.5.0"
+        },
+        "runtime": {
+          "UasProject.dll": {}
+        }
+      },
+      "MySql.Data/6.2.5.0": {
+        "runtime": {
+          "MySql.Data.dll": {
+            "assemblyVersion": "6.2.5.0",
+            "fileVersion": "6.2.5.0"
+          }
+        }
+      },
+      "MySql.Data.Entity/6.2.5.0": {
+        "runtime": {
+          "MySql.Data.Entity.dll": {
+            "assemblyVersion": "6.2.5.0",
+            "fileVersion": "6.2.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UasProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySql.Data/6.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySql.Data.Entity/6.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

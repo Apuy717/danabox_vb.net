@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="fAddAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAdminCity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAdminHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAdminMaster.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAdminProvince.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAdminSubDistrict.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAdminVillage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fDashboardAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fDeposit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fDetailBoxTransaction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fMasterPilgrims.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fMonitoringBoxPilgrims.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
